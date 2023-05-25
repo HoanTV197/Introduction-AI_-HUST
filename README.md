@@ -11,7 +11,7 @@ Uses the Alpha-Beta algorithm to search for the best move.
 ## Getting started
 Download the repository and install the numpy dependency:
 ```
-git clone 
+git clone https://github.com/HoanTV197/Introduction-AI_-HUST.git
 cd PlayChessAI
 pip3 install numpy
 ```
